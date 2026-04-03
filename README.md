@@ -1,4 +1,4 @@
-<img src="banner.svg" alt="Rahul-2806 GitHub Profile" width="100%"/>
+
 <div align="center">
 
 <!-- Animated header using capsule render -->
