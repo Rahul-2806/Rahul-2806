@@ -1,13 +1,6 @@
 <div align="center">
 
-```
-██████╗  █████╗ ██╗  ██╗██╗   ██╗██╗     ██████╗
-██╔══██╗██╔══██╗██║  ██║██║   ██║██║     ██╔══██╗
-██████╔╝███████║███████║██║   ██║██║     ██████╔╝
-██╔══██╗██╔══██║██╔══██║██║   ██║██║     ██╔══██╗
-██║  ██║██║  ██║██║  ██║╚██████╔╝███████╗██║  ██║
-╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=D4AF37&height=120&section=header&text=RAHUL%20R&fontSize=52&fontColor=0d1117&fontAlignY=65&animation=fadeIn&desc=Data%20Scientist%20%2B%20Full-Stack%20Developer&descSize=16&descAlignY=88&descFontColor=0d1117" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=800&color=D4AF37&center=true&vCenter=true&width=700&lines=Data+Scientist+%2B+Full-Stack+Developer;Building+AI+systems+that+actually+ship.;Kerala+%E2%86%92+World." alt="Typing SVG" />
 
@@ -142,5 +135,7 @@ class Rahul:
 <br>
 
 *Kerala → World. One commit at a time.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=D4AF37&height=80&section=footer" width="100%" />
 
 </div>
